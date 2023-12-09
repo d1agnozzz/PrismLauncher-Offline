@@ -1,0 +1,7 @@
+qtchooser
+cmake
+ninja
+extra-cmake-modules
+zlib
+jdk17-openjdk
+
